@@ -1,15 +1,16 @@
 # Wedding Planner Website
 
-This is a university project done in a database course in my Bachelor studies in computer science (year 2016).
-
-This project was done in a group of two.
+This is a university project. 
+This project was done in a group of two:
+- Karen Errou
+- Rita Dib
 
 The subject concerns a web site for wedding shopping. It contains:
   - Consultation of the catalogs. (Open for all visitors)
   - Selling, loaning or fitting items. (Open for only registered users)
   - Reserve music and venues. (Open for only registered users)
   - Add items, music, venues to user’s favorite list. (Open for only registered users)
-  - Registration’s management.
+  - Management Registration.
 
 A user can be wither admin or a client.
 
