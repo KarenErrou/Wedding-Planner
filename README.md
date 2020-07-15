@@ -5,11 +5,11 @@ This is a university project done in a database course in my Bachelor studies in
 This project was done in a group of two.
 
 The subject concerns a web site for wedding shopping. It contains:
-  o Consultation of the catalogs. (Open for all visitors)
-  o Selling, loaning or fitting items. (Open for only registered users)
-  o Reserve music and venues. (Open for only registered users)
-  o Add items, music, venues to user’s favorite list. (Open for only registered users)
-  o Registration’s management.
+  - Consultation of the catalogs. (Open for all visitors)
+  - Selling, loaning or fitting items. (Open for only registered users)
+  - Reserve music and venues. (Open for only registered users)
+  - Add items, music, venues to user’s favorite list. (Open for only registered users)
+  - Registration’s management.
 
 A user can be wither admin or a client.
 
