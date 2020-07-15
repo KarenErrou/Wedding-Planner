@@ -1,16 +1,16 @@
 # Wedding Planner
 
-This is a web application for wedding planning.
-The application is developed using PHP.
-Google Places is used to retreive locations.
+This is a web application for wedding planning.  
+The application is developed using PHP.  
+Google Places is used to retreive locations.  
 
 ## Technologies used
-PHP, HTML, JavaScript
-MySQLi
-UML
+PHP, HTML, JavaScript  
+MySQLi  
+UML  
 
 ## Features:
-The application has a client mode and an admin mode.
+The application has a client mode and an admin mode.  
 
 - The client can:
     - [x] Buy items (clothes, shoes, accessories,..) for both genders (male and female).
@@ -27,5 +27,5 @@ The application has a client mode and an admin mode.
     - [x] Add and Update events
     
 ## Authors
-Errou Karen
+Errou Karen  
 Dib Rita
